@@ -10,3 +10,9 @@
     align-items: top;
     justify-content: top;
 }
+
+.topnav-left {
+    margin-left: 20px;
+    font-family: Arial, sans-serif;
+    font-size: larger;
+}
